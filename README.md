@@ -54,5 +54,7 @@ Here are a few highlighted projects:
 
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=ujjwalrai17&color=green)
+---
 
 *Open to freelance, full-time, and collaborative opportunities. Let's build something amazing together!*
