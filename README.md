@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Ayush Rai!
 
+![Main Gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
 I'm a passionate **Full Stack Web Developer** and **Java Developer** with a strong foundation in **C** and **C++**. I love building scalable web applications and writing clean, maintainable code. Whether it's front-end interfaces or back-end logic, I enjoy the entire development lifecycle.
 
 ---
