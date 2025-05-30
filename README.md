@@ -49,7 +49,7 @@ Here are a few highlighted projects:
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ayushrai)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ayush-ray-960390294)
 - 💌 Email: rayayushkumar11@gmail.com
 
 
