@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Ayush Rai]!
+# 👋 Hi, I'm Ayush Rai!
 
 I'm a passionate **Full Stack Web Developer** and **Java Developer** with a strong foundation in **C** and **C++**. I love building scalable web applications and writing clean, maintainable code. Whether it's front-end interfaces or back-end logic, I enjoy the entire development lifecycle.
 
