@@ -56,5 +56,9 @@ Here are a few highlighted projects:
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=ujjwalrai17&color=green)
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayusshhrai&hide=c,html&layout=compact&theme=radical)
+
+---
+![Code GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 *Open to freelance, full-time, and collaborative opportunities. Let's build something amazing together!*
