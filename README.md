@@ -27,7 +27,6 @@ I'm a passionate **Full Stack Web Developer** and **Java Developer** with a stro
 
 ### ⚙️ Tools & Platforms
 - Git / GitHub
-- Docker
 - Postman
 - VS Code / IntelliJ IDEA
 
